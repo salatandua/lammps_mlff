@@ -98,6 +98,7 @@ PACKAGE = \
 	misc \
 	ml-hdnnp \
 	ml-pace \
+	ml-qimns \
 	ml-quip \
 	ml-rann \
 	ml-snap \
@@ -177,6 +178,7 @@ PACKMOST = \
 	mc \
 	meam \
 	misc \
+	ml-qimns \
 	ml-snap \
 	mofff \
 	molecule \
